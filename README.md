@@ -1,2 +1,2 @@
 # Diversity-and-ice-storm
-The data and code for "Structural diversity promotes forest resistance to extreme ice storm damage primarily through complementarity"
+All source code and data for "Structural diversity promotes forest resistance to extreme ice storm damage primarily through complementarity" are currently being organized and will be uploaded and made accessible shortly.
