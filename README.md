@@ -1,2 +1,2 @@
 ## Multi-stemmed-and-ice-storm
-All source code and data for "Multi-stemmed architecture reduces ice storm damage in subtropical forests" are currently being organized and will be uploaded and made accessible shortly.
+All the data and code used for data analysis and figure generation is available on GitHub at https://github.com/wang-jie-98/Multi-stemmed-and-ice-storm.
